@@ -43,9 +43,9 @@ function scaleAnim(el) {
 function resetStyle(el) {
   const style = el.style;
   style.left = "0";
-  style.right = "0";
+  // style.right = "0";
   style.top = "0";
-  style.bottom = "0";
+  // style.bottom = "0";
   style.transform = "scale(1)";
 }
 

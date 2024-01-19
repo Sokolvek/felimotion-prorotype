@@ -4,6 +4,14 @@
   overflow-x: hidden;
 }
 
-.active{
-  left: 0 !important;
+.block{
+  position: relative;
+  overflow: hidden;
+}
+
+.test{
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  background-color: white;
 }
